@@ -1,0 +1,34 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Dados brutos
+dados/bruto/
+
+# Arquivos compactados
+*.zip
+*.7z
+*.rar
+
+# Banco de dados local
+banco/*.duckdb
+banco/*.db
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente local
+.env
+.env.*
+
+# Configurações do VS Code
+.vscode/
