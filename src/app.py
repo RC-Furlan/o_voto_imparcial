@@ -1300,11 +1300,13 @@ def render_home():
                 Como funciona
             </div>
             <div class="how-it-works-text">
-                Os candidatos são apresentados de forma anônima.
-                Você pode consultar as informações públicas
-                disponíveis sobre cada perfil antes de revelar
-                sua identidade. A identidade só é exibida depois
-                que você decide selecionar o candidato.
+             Dados reais sobre candidatos à Presidência do Brasil, totalmente livres de discurso político.
+             Abaixo, você encontra uma lista com os 13 candidatos à Presidência do Brasil. Cada perfil contém
+             a formação do candidato, os cargos políticos exercidos no passado, o trabalho desenvolvido durante
+             o exercício desses cargos e uma listagem de seus patrimônios.
+             Leia as informações, escolha o perfil que mais se alinha aos seus princípios e, então, clique em
+             "Selecionar Candidato" para revelar as informações de identificação do candidato escolhido e ter
+             acesso ao PDF com os dados do projeto de governo.
             </div>
         </section>
         """
